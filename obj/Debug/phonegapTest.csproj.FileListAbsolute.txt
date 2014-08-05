@@ -1,0 +1,4 @@
+c:\users\captain dashenka\documents\visual studio 2010\Projects\phonegapTest\phonegapTest\bin\phonegapTest.dll
+c:\users\captain dashenka\documents\visual studio 2010\Projects\phonegapTest\phonegapTest\bin\phonegapTest.pdb
+c:\users\captain dashenka\documents\visual studio 2010\Projects\phonegapTest\phonegapTest\obj\Debug\phonegapTest.dll
+c:\users\captain dashenka\documents\visual studio 2010\Projects\phonegapTest\phonegapTest\obj\Debug\phonegapTest.pdb
